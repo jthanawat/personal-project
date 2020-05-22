@@ -20,6 +20,8 @@ module.exports = (sequelize, DataTypes) => {
   Guest.associate = (models) => {
     Guest.hasOne (models.guestMeta)
   }
+
+  // .gitignore "config folder"
   
   return Guest;
 

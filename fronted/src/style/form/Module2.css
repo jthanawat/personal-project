@@ -1,0 +1,64 @@
+.container {
+  text-align: center;
+}
+
+.logo img {
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.form-container {
+  text-align: center;
+  display: inline-block;
+  position: center;
+  /* padding-top: 38px; */
+  /* padding-bottom: 100px; */
+  margin-bottom: 100px;
+}
+
+.form-box-border {
+  width: 560px;
+  height: 1620px;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+.boxInForm {
+  width: 423px;
+  height: 1538px;
+  padding: 25px 70px 25px 70px;
+  font-family: 'Sarabun', sans-serif;
+  text-align: left;
+  color: #404040;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+.header {
+  
+}
+
+.heading {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 31px;
+  
+}
+
+/* .description {
+  font-size: 14px;
+  line-height: 1.5;
+} */
+
+.border {
+  width: 422px;
+  height: 0px;
+  margin-top: 18px;
+  border: 0.5px solid #A6A6A6;
+}
+
+.survey {
+  margin-top: 30px;
+}
